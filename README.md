@@ -42,6 +42,7 @@ Users should be able to:
 - Semantic HTML5 markup
 - Pure CSS
 - Vanilla JavasSript
+- API
 - Flexbox
 - [Google Fonts](https://fonts.googleapis.com/css2?family=Manrope:wght@800&display=swap) - For Fonts
 
