@@ -42,10 +42,7 @@ Users should be able to:
 - Semantic HTML5 markup
 - Pure CSS
 - Vanilla JavasSript
-<<<<<<< HEAD
 - API
-=======
->>>>>>> 4c72b2e69ef4c4c64fe7f96ccd8e3fa470a7d17b
 - Flexbox
 - [Google Fonts](https://fonts.googleapis.com/css2?family=Manrope:wght@800&display=swap) - For Fonts
 
@@ -58,8 +55,3 @@ This challenge exposed me to how to use fetch to get data from a URL.
 - GitHub - [Udeh Ifeanyi](https://github.com/Ifescohub)
 - Frontend Mentor - [@ifescohub](https://www.frontendmentor.io/profile/Ifescohub)
 - Twitter - [@UdehIfeanyi10](https://twitter.com/UdehIfeanyi10)
-<<<<<<< HEAD
-
-
-=======
->>>>>>> 4c72b2e69ef4c4c64fe7f96ccd8e3fa470a7d17b

@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 @import url("https://fonts.googleapis.com/css2?family=Manrope:wght@800&display=swap");
 
 
@@ -64,9 +63,7 @@ h1{
     padding: 1rem; 
     border-radius: 50%;
     cursor: pointer;
-    position: absolute;
-    bottom: -2rem;
-    left: 43.5%;
+    margin: 0 auto -4rem;
 }
 
 .dice:hover{
@@ -88,94 +85,3 @@ footer a{
 footer a:hover{
     text-decoration: overline;
 }
-=======
-@import url("https://fonts.googleapis.com/css2?family=Manrope:wght@800&display=swap");
-
-
-:root{
-    --Light-Cyan: hsl(193, 38%, 86%);
-    --Neon-Green: hsl(150, 100%, 66%);
-    --Grayish-Blue: hsl(217, 19%, 38%);
-    --Dark-Grayish-Blue: hsl(217, 19%, 24%);
-    --Dark-Blue: hsl(218, 23%, 16%);
-
-    --fs-1: clamp(1rem, 4vw, 2rem);
-    --fs-2: clamp(0.9rem, 5vw, 1.6rem);
-}
-
-*{
-    box-sizing: border-box;
-    margin: 0;
-    padding: 0;
-    max-width: 100%;
-}
-
-body{
-    background-color: var(--Dark-Blue);
-    color: var(--Light-Cyan);
-    text-align: center;
-    display: flex;
-    flex-direction: column;
-    justify-content: space-evenly;
-    height: 100vh;
-    font-family: 'Manrope', sans-serif;
-    font-size: var(--fs-2);
-    font-weight: 800;
-}
-
-main{
-    width: 30rem;
-    max-width: 90%;
-    background-color: var(--Dark-Grayish-Blue);
-    padding: 1rem 1.2rem 2rem;
-    margin: 0 auto;
-    border-radius: 1.5rem;
-    position: relative;
-}
-
-h1{
-    color: var(--Neon-Green);
-    text-transform: uppercase;
-    padding-block: 1rem;
-    font-size: var(--fs-1)
-}
-
-.mobile-divider{
-    padding-block: 1rem;
-}
-
-.dice{
-    background-color: var(--Neon-Green);
-    width: 4rem;
-    aspect-ratio: 1;
-    display: flex;
-    justify-content: center;
-    align-items: center;
-    padding: 1rem; 
-    border-radius: 50%;
-    cursor: pointer;
-    position: absolute;
-    bottom: -2rem;
-    left: 43.5%;
-}
-
-.dice:hover{
-    box-shadow: 0 0 10px 2px var(--Neon-Green);
-}
-
-
-footer{
-    font-size: 0.7rem;
-    margin: 0 auto;
-    color: var(--Light-Cyan);
-}
-
-footer a{
-    color: var(--Neon-Green);
-    text-decoration: none;
-}
-
-footer a:hover{
-    text-decoration: overline;
-}
->>>>>>> 4c72b2e69ef4c4c64fe7f96ccd8e3fa470a7d17b
