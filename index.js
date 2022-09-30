@@ -1,5 +1,4 @@
 
-
 document.getElementById("dice-icon").addEventListener("click", ()=>{
     fetch("https://api.adviceslip.com/advice")
         .then(response => response.json())
